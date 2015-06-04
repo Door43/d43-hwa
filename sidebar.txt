@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hwa:home|Door43 (hwa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hwa|d43-hwa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hwa/archive/master.zip|d43-hwa.zip]]
+
+**Recent Changes**
+{{changes>ns = hwa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hwa|Ethnologue data]]
+
